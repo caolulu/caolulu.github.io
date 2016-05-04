@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title> on SamBlack&#39;s blog </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://samblack323.github.io/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 04 May 2016 13:52:02 CST</updated>
+    
+    <item>
+      <title>about</title>
+      <link>http://samblack323.github.io/about/</link>
+      <pubDate>Wed, 04 May 2016 13:52:02 CST</pubDate>
+      
+      <guid>http://samblack323.github.io/about/</guid>
+      <description>&lt;p&gt;haha&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Augmenting RDBMS with NoSQL for e-commerce</title>
+      <link>http://samblack323.github.io/presentation/augmenting-rdbms-with-nosql-for-e-commerce</link>
+      <pubDate>Sun, 10 Apr 2011 00:00:00 UTC</pubDate>
+      
+      <guid>http://samblack323.github.io/presentation/augmenting-rdbms-with-nosql-for-e-commerce</guid>
+      <description>
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://samblack323.github.io/media/postgresconNYC_ss.png&#34; alt=&#34;postgres con&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;&lt;a href=&#34;http://justinhileman.info/&#34;&gt;Justin Hileman&lt;/a&gt; and I gave a presentation
+on “Augmenting RDBMS with NoSQL for e-commerce” at the PgEast 2011
+conference. This presentation is really the sequel (no pun intended) to
+my presentation, &lt;a href=&#34;http://spf13.com/post/mongodb-ecommerce-a-perfect-combination&#34; title=&#34;MongoDB &amp;amp; Ecommerce : A Perfect Combination&#34;&gt;MongoDB &amp;amp; Ecommerce : A Perfect
+Combination&lt;/a&gt;.
+This presentation takes you through how we created a hybrid solution
+blending both sql and nosql to achieve an optimal solution.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/spf13/augmenting-rdbms-with-mongodb-for-ecommerce-7561455&#34; title=&#34;Augmenting RDBMS with MongoDB for ecommerce&#34;&gt;Augmenting RDBMS with MongoDB for
+ecommerce&lt;/a&gt;&lt;/strong&gt;
+&lt;div class=&#34;embed slideshare&#34;&gt;
+&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/7561455?rel=0&#34; width=&#34;599&#34; height=&#34;487&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;View more &lt;a href=&#34;http://www.slideshare.net/&#34;&gt;presentations&lt;/a&gt; from &lt;a href=&#34;http://www.slideshare.net/spf13&#34;&gt;Steve
+Francia&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Our colleague at &lt;a href=&#34;http://opensky.com&#34;&gt;OpenSky&lt;/a&gt;, Jon Wage, pioneered this
+technique. To learn more about creating cross-database-platform
+relations with Doctrine ORM and ODM, check out &lt;a href=&#34;http://www.jwage.com/2010/08/25/blending-the-doctrine-orm-and-mongodb-odm/&#34;&gt;Jon Wage’s excellent
+blog post on the
+subject&lt;/a&gt;
+or the first half &lt;a href=&#34;http://symfony.com/video/Paris2011/575&#34;&gt;his recent talk at Symfony
+Live&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

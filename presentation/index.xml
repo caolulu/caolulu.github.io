@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Presentations on SamBlack&#39;s blog </title>
+      <title>Presentations on lulu&#39;s blog </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://samblack323.github.io/presentation/</link>
+    <link>http://localhost:1313/presentation/</link>
     <language>en-us</language>
     
     
@@ -11,14 +11,14 @@
     
     <item>
       <title>Augmenting RDBMS with NoSQL for e-commerce</title>
-      <link>http://samblack323.github.io/presentation/augmenting-rdbms-with-nosql-for-e-commerce</link>
+      <link>http://localhost:1313/presentation/augmenting-rdbms-with-nosql-for-e-commerce</link>
       <pubDate>Sun, 10 Apr 2011 00:00:00 UTC</pubDate>
       
-      <guid>http://samblack323.github.io/presentation/augmenting-rdbms-with-nosql-for-e-commerce</guid>
+      <guid>http://localhost:1313/presentation/augmenting-rdbms-with-nosql-for-e-commerce</guid>
       <description>
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://samblack323.github.io/media/postgresconNYC_ss.png&#34; alt=&#34;postgres con&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/media/postgresconNYC_ss.png&#34; alt=&#34;postgres con&#34; /&gt;
     
     
 &lt;/figure&gt;
